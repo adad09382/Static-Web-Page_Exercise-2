@@ -11,4 +11,4 @@
 點擊導覽頁面連結之頁面尚未完成，預計於學習完成網頁後端登錄後完成。
 
 頁面呈現效果如下圖：
-![image](https://github.com/adad09382/Static-Web-Page_Exercise-2/blob/main/REMEAD.png)
+![image](https://github.com/adad09382/Static-Web-Page_Exercise-2/blob/main/README.png)
