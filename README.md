@@ -1,6 +1,6 @@
-# Static-Web-Page_Exercise-2
+# Static-Web-Page_Exercise-2 (旅遊網站)
 
-靜態網站練習2 (日本旅遊推薦網)
+靜態網站練習2
 
 本網頁主幹以基礎html + css 指令完成，日本地圖部分使用google map提供的html iframe。
 
